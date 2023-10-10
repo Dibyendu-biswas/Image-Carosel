@@ -1,5 +1,5 @@
 <h1>Project - Vanilla-JavaScript-Image-Carosel-Project</h1>
-<img src="img.png"/>
+<img src="imgCarosel.png"/>
 
 <h2>Project Details :</h2>
 <p>This is a library of multiple basic projects based on HTML, CSS & Vanilla Javascript. No framework is used while developing this projects.</p>
